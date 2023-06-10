@@ -3,7 +3,9 @@
 ## By: TiemNguyen ##
 
 ##Run
-```streamlit run app/app.py
+```
+streamlit run app/app.py
+
 ```
 
 ### Statement of Purpose ###
