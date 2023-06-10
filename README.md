@@ -2,7 +2,19 @@
 
 ## By: TiemNguyen ##
 
-## Run
+## Install
+ 
+* step 1: clone repo
+
+```
+git clone https://github.com/NguyenDinhTiem/diamond-price-predict.git
+```
+* step 2: install requeriment 
+
+```
+git install -r requirement.txt
+```
+* step 3: Run
 ```
 streamlit run app/app.py
 
