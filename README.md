@@ -2,7 +2,7 @@
 
 ## By: TiemNguyen ##
 
-##Run
+## Run
 ```
 streamlit run app/app.py
 
