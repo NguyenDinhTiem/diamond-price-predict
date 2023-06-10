@@ -18,7 +18,7 @@ git install -r requirement.txt
 ```
 * step 3: Run
 ```
-streamlit run app/app.py
+streamlit run app.py
 
 ```
 
