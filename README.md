@@ -2,7 +2,7 @@
 
 ## By: Tiem Nguyen ##
 
-DEMO: https://github.com/NguyenDinhTiem/diamond-price-predict.git
+DEMO: https://nguyendinhtiem-diamond-price-predict-app-h66dx8.streamlit.app/
 
 ## Install
  
