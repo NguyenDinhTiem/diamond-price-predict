@@ -1,6 +1,8 @@
 # AI Thần Tài Mách Bạn Cách Mua Kim Cương Thông Minh #
 
-## By: TiemNguyen ##
+## By: Tiem Nguyen ##
+
+DEMO: https://github.com/NguyenDinhTiem/diamond-price-predict.git
 
 ## Install
  
